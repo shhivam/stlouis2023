@@ -43,6 +43,12 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * Interested in: realtime, multiplayer, local-first, collaborative tech, but also books, pierogis, and plants
 * London, UK (come visit our beautiful office!)
 
+## Shivam Singhal
+* backend engineer, interested in distributed systems, clojure, psychology, travelling.
+* from New Delhi, India
+* works at nilenso.com
+* know more about me at shivamsinghal.me
+
 ## Paul
 * Building experimental personal computing systems.
 * https://briarproject.org
